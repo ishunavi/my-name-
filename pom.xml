@@ -18,4 +18,5 @@
   <build>
     <finalName>mavenapp</finalName>
   </build>
+  <dependency>my name is ishu</dependecy>
 </project>
