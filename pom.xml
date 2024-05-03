@@ -18,5 +18,4 @@
   <build>
     <finalName>mavenapp</finalName>
   </build>
-  <dependency>my name is ishunavi</dependecy>
 </project>
